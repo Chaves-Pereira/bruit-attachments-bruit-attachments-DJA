@@ -1,0 +1,10 @@
+
+11:05:07	click	//div[@id="app"]/bruit-io[0]/a/svg/path 
+	
+11:05:01	click	//div[@id="bruit-io-wrapper"] 
+ <div class="bruit-modal..."> 
+ss<div class="bruit-head..."> 
+ssss<h1 class="bruit-title..."> bruit	
+11:04:59	click	//div[@id="app"]/bruit-io[0]/a/svg/path 
+	
+11:04:57	url	http://192.168.1.33:8081/	
